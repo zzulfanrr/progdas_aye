@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//semangat sron
 int main(void)
 {
     system("clear");
